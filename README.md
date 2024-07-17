@@ -1,2 +1,3 @@
-# TSCD-Dataset
-Time series Chengdu Dataset for paper "COUD: Continual Urbanization Detector for Time Series Building Change Detection"
+# TSCD Time Series Change Detection Dataset
+This is the Time series change detection Dataset released and used in paper "COUD: Continual Urbanization Detector for Time Series Building Change Detection".
+
