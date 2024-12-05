@@ -1,7 +1,7 @@
 # TSCD Time Series Change Detection Dataset
 This is the Time series change detection Dataset released and used in paper "COUD: Continual Urbanization Detector for Time Series Building Change Detection".
 
-SAR2Opt dataset can be used as a benchmark in __Time Series Change Detection__ task on remote sensing images.
+TSCD dataset can be used as a benchmark in __Time Series Change Detection__ task on remote sensing images.
 
 ![Examples](imgs/tscd.png)  
 
